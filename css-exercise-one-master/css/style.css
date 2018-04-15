@@ -1,0 +1,57 @@
+body {
+  font-size: 14px;
+}
+
+nav {
+  background color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.header h1 {
+  /* this will be section 1*/
+  font-family: sans-serif;
+  font-size: 2em;
+  /* what cocolor of purple will this be?*/
+  background-color: purple;
+  color: #465AB2;
+}
+
+.example h3 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.header h2 {
+  font-family:sans-serif;
+  font-size: 1.5em;
+  background-color: red;
+  color: #2D9CDB;
+}
+
+.element1 {
+  background-color: pink;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.header h3 {
+  font-family: sans-serif;
+  font-size: 1.3em;
+  color: #F2994A;
+}
+
+.element {
+  background-color: green;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
